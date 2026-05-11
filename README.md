@@ -1,11 +1,8 @@
 # Hi, I'm Darsh Soni! 👋
 
 ### A CSE AI and Robotics Student at VIT Chennai
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=darshsoni04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Darsh's Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=darshsoni04&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=Darshcmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Darshcmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -32,7 +29,3 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,mongodb,fedora,apple,vscode,discord,bots" />
-</p>
