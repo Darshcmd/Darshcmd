@@ -2,10 +2,8 @@
 
 ### A CSE AI and Robotics Student at VIT Chennai
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Darshcmd&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=rank" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Darshcmd&layout=donut&theme=dark&hide_border=true" />
-</div>
+| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darshcmd&theme=nightowl) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshcmd&theme=nightowl) |
+| :--- | :--- |
 
 ---
 
@@ -29,5 +27,3 @@
 * **Space Tech Intern** @ BSERC, IIT Madras
 * **Google Student Ambassador**
 * **Open Source Contributor** @ Girlscript Summer of Code 2025
-
----
