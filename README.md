@@ -2,16 +2,10 @@
 
 ### A CSE AI and Robotics Student at VIT Chennai
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=Darshcmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450px" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Darshcmd&layout=donut&theme=tokyonight&hide_border=true" width="350px" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Darshcmd&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=rank" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Darshcmd&layout=donut&theme=dark&hide_border=true" />
+</div>
 
 ---
 
