@@ -1,8 +1,17 @@
-# Hi, I'm Darsh Soni! 👋
+# Hi, I'm Darsh Soni! 
 
 ### A CSE AI and Robotics Student at VIT Chennai
-![](https://github-readme-stats.shion.dev/api?username=Darshcmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Darshcmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=Darshcmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Darshcmd&layout=donut&theme=tokyonight&hide_border=true" width="350px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -28,4 +37,3 @@
 * **Open Source Contributor** @ Girlscript Summer of Code 2025
 
 ---
-
