@@ -1,11 +1,13 @@
-# Hi, I'm Darsh Soni!
+# Hi, I'm Darsh Soni! 👋
 
-An **AI & Robotics Student** at **VIT Chennai**.
+### A CSE AI and Robotics Student at VIT Chennai
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshsoni04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Darsh's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshsoni04&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=darshsoni04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Darsh's Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=darshsoni04&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
+
+---
 
 **Interests:** Machine Learning, AI, NLP, GenAI, Full-stack development.
 
