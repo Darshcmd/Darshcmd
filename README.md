@@ -2,8 +2,24 @@
 
 ### A CSE AI and Robotics Student at VIT Chennai
 
-| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darshcmd&theme=nightowl) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshcmd&theme=nightowl) |
-| :--- | :--- |
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darshcmd&theme=nightowl">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darshcmd&theme=default">
+        <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darshcmd&theme=default">
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshcmd&theme=nightowl">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshcmd&theme=default">
+        <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshcmd&theme=default">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
