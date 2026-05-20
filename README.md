@@ -1,1 +1,3 @@
-![https://darsh.is-a.dev](https://media.tenor.com/BgR83Df82t0AAAAj/portal-rick-and-morty.gif)
+<p align="center">
+  ![https://darsh.is-a.dev](https://media.tenor.com/BgR83Df82t0AAAAj/portal-rick-and-morty.gif)
+</p>
